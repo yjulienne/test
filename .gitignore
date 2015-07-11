@@ -45,3 +45,11 @@ Temporary Items
 # IntelliJ
 .idea
 *.iml
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Maven
+/target/
